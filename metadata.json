@@ -1,0 +1,8 @@
+{
+  "name": "DockerPulse - Container Monitor",
+  "description": "A sophisticated Docker container monitoring dashboard featuring real-time resource tracking, AI-powered system insights, and comprehensive container management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
